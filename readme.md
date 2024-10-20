@@ -3,7 +3,7 @@
 ## Steps for installing the required packages
 
 - Download Python
--  Unzip the project file
+-  Now run ``` git clone https://github.com/Fahgithub/BoxOffice_Sentiments.git ```
 -  Open CMD in the folder. i.e the at the location of the project folder
 -  Now run  ``` pip install -r requirements.txt ```  
 -  Once all the above steps are done. Run the following command
