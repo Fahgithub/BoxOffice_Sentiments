@@ -36,7 +36,7 @@
 ![alt text](link_pasted.png)
 
 ## Result will be as follows:
-![alt text](senti_screenshot.png)
+![alt text](Senti_analysis_Screenshot.jpeg)
 
 
 
