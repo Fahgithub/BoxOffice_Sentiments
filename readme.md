@@ -22,31 +22,15 @@
 
 <br>
 
-- Now Go to the <a href="https://www.imdb.com/">IMDB site </a> and search for the movie you want the sentiment analysis for. 
+  ### Now search for the exact name of the movie you want for sentimental analysis.
 
-- Copy the link of that page. But remember <b> Only Copy the link till the code </b>.
-- For example: For Gangs of Wasseypur the link will be https://www.imdb.com/title/tt1954470
-
-![alt text](for_link.png) 
-
-<br>
-
-### Now paste the link in our sentiment analysis website and click on "Analyze Sentiment"
-
-![alt text](link_pasted.png)
+![alt text](title_pasted.png)
 
 ## Result will be as follows:
-![alt text](senti_screenshot.png)
+![alt text](final_screenshot.png)
 
-
-
-## Solving the Bug
-  ### Some times it may happen that after pasting the link and clicking on the analyse button. It may not work giving the following error.
-  ![alt text](error.png) 
-
-### In such cases. Try one the following steps
-- Try 2-3 times by again pasting the link and clicking on "Analyze Sentiment" Button
-- Restart the app 
-- Try with another movie (Since for some movies the database may not have created. )
+## Additional features
+  ### Added a feature to search for a movie by it's title instead of URL.
+  ### Added a feature to suggest movies to the user based on the movie that they have searched.
 
 
