@@ -3,7 +3,7 @@
 ## Steps for installing the required packages
 
 - Download Python
--  Now run ``` git clone https://github.com/Fahgithub/BoxOffice_Sentiments.git ```
+-  Unzip the project file
 -  Open CMD in the folder. i.e the at the location of the project folder
 -  Now run  ``` pip install -r requirements.txt ```  
 -  Once all the above steps are done. Run the following command
@@ -36,7 +36,7 @@
 ![alt text](link_pasted.png)
 
 ## Result will be as follows:
-![alt text](Senti_analysis_Screenshot.jpeg)
+![alt text](senti_screenshot.png)
 
 
 
